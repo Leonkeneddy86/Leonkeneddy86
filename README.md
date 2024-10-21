@@ -7,12 +7,53 @@
 Contacto:
 - jonathan19.jtv@gmail.com
 
- <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black'/></a>
+ <div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
+###
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
+<h1 align="center">Bienvenidos/as 👋</h1>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=black'/></a>
+###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonkeneddy86&theme=solarized-dark&hide_border=true&locale=es&exclude_days=Sat&card_width=400)](https://git.io/streak-stats)
+<h3 align="left">👩‍💻  Sobre mi</h3>
+
+###
+
+<p align="left">Soy De Malaga<br><br>- 🔭 Estoy estudiando como desarrollador<br>- 📚 Actualmente estoy aprendiendo HTML5, CSS3<br>- ⚡ En mi tiempo libre me gusta jugar videojuegos, y perfeccionar código</p>
+
+###
+
+<h3 align="left">🛠 Lenguajes Y Herramientas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonkeneddy86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=solarized-dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonkeneddy86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ5ZW1oOXFjZXY0bzlseTc4dzNjZGpzMmUxcTNmbWRieHNmZDJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XSUI2hUAFdRFV13Gp0/giphy.gif"  />
+</div>
+
+###
