@@ -2,10 +2,10 @@
 
 
 ---
-Me llamo Jonathan. y acabo de empezar en el mundo de la programacion como desarrollador. haciendo proyectos bien en solitario, o en equipo. y me gustaria ampliar conocimientos, crear, y conocer mas este mundo, como Back-End y Front-End 
+ acabo de empezar en el mundo de la programacion como desarrollador. haciendo proyectos bien en solitario, o en equipo. y me gustaria ampliar conocimientos, crear, y conocer mas este mundo, como Back-End y Front-End 
 
 Contacto:
-jonathan19.jtv@gmail.com
+- jonathan19.jtv@gmail.com
 
  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black'/></a>
 
