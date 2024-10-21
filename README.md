@@ -1,4 +1,4 @@
-Banner
+https://github.com/Leonkeneddy86/Leonkeneddy86/issues/1#issue-2601514072
 
 ---
 Me llamo Jonathan, y acabo de empezar en programacion como back-End y Front-end me gustaria seguir ampliando mis conocimientos y poder tener un trabajo
