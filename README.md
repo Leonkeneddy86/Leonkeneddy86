@@ -1,4 +1,4 @@
-https://github.com/Leonkeneddy86/Leonkeneddy86/issues/1#issue-2601514072
+![images](https://github.com/user-attachments/assets/63f7d81e-b8d7-4495-a3c0-5d13c430edfd)
 
 ---
 Me llamo Jonathan, y acabo de empezar en programacion como back-End y Front-end me gustaria seguir ampliando mis conocimientos y poder tener un trabajo
