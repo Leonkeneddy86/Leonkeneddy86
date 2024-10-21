@@ -14,3 +14,5 @@ Contacto:
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=black'/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonkeneddy86&theme=solarized-dark&hide_border=true&locale=es&exclude_days=Sat&card_width=400)](https://git.io/streak-stats)
