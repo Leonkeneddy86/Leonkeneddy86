@@ -1,59 +1,67 @@
-![Banner github](https://github.com/user-attachments/assets/b886d663-ee8e-4057-b88d-3cf699ea5735)
+<h2 align="left">Hi 👋! My name is Jonathan and I'm a developer, from Spain/Malaga</h2>
 
+###
 
----
- acabo de empezar en el mundo de la programacion como desarrollador. haciendo proyectos bien en solitario, o en equipo. y me gustaria ampliar conocimientos, crear, y conocer mas este mundo, como Back-End y Front-End 
-
-Contacto:
-- jonathan19.jtv@gmail.com
-
- <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonkeneddy86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonkeneddy86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="center">Bienvenidos/as 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mi</h3>
-
-###
-
-<p align="left">Soy De Malaga<br><br>- 🔭 Estoy estudiando como desarrollador<br>- 📚 Actualmente estoy aprendiendo HTML5, CSS3<br>- ⚡ En mi tiempo libre me gusta jugar videojuegos, y perfeccionar código</p>
-
-###
-
-<h3 align="left">🛠 Lenguajes Y Herramientas</h3>
+<img align="right" height="150" src="https://media1.tenor.com/m/7DyqNJdGon4AAAAd/leonskennedy-leon.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonkeneddy86&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=solarized-dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonkeneddy86&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <a href="Jonathan19.jtv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZ5ZW1oOXFjZXY0bzlseTc4dzNjZGpzMmUxcTNmbWRieHNmZDJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XSUI2hUAFdRFV13Gp0/giphy.gif"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/leonkeneddy86/leonkeneddy86/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="80" src="https://media.tenor.com/EvVFLLk7CDEAAAAj/leon-kennedy-getting-jiggy-with-it.gif"  />
 
 ###
