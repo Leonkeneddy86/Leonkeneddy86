@@ -56,12 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/leonkeneddy86/leonkeneddy86/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="80" src="https://media.tenor.com/EvVFLLk7CDEAAAAj/leon-kennedy-getting-jiggy-with-it.gif"  />
 
 ###
