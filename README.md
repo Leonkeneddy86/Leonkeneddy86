@@ -1,3 +1,6 @@
+![Silent Hill Banner](https://github.com/user-attachments/assets/eb7575f9-57cd-461c-a3ac-c0f964c73c16)
+
+
 <h2 align="left">Hi 👋! My name is Jonathan and I'm a developer, from Spain/Malaga</h2>
 
 ###
@@ -48,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="Jonathan19.jtv@gmail.com" target="_blank">
+ <a href="Jonathan19.jtv@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
