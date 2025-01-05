@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonkeneddy86&theme=dracula&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/Leonkeneddy86/Leonkeneddy86/e7ddffa4006a2d659b994f20403029fd6e95e016/github-contribution-grid-snake.svg"  />
 </div>
 
 ###
