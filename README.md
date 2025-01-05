@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">💻 Welcome Devs to my ReadMe!<br><br>- 😊 My name is Jonathan <br>- 🌍 I am from Malaga (Spain)<br>- 🎮 In my free time I play video games, and work on my projects. <br>- 💻 Languages: HTML5, CSS, JavaScript, PHP, Python (basic notions)<br>- 🛠 Frameworks: Laravel<br>- 🗃 Databases: MySQL, phpMyAdmin<br>- ☁ Cloud: AWS<br>- 🐳 Containers: Docker<br>- 🐧 Systems: Linux</h6>
+<h4 align="left">💻 Welcome Devs to my ReadMe!<br><br>- 😊 My name is Jonathan <br>- 🌍 I am from Malaga (Spain)<br>- 🎮 In my free time I play video games, and work on my projects. <br>- 💻 Languages: HTML5, CSS, JavaScript, PHP, Python (basic notions)<br>- 🛠 Frameworks: Laravel<br>- 🗃 Databases: MySQL, phpMyAdmin<br>- ☁ Cloud: AWS<br>- 🐳 Containers: Docker<br>- 🐧 Systems: Linux</h6>
 
 ###
 
