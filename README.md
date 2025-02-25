@@ -1,4 +1,4 @@
-![Silent Hill Banner](https://github.com/user-attachments/assets/eb7575f9-57cd-461c-a3ac-c0f964c73c16)
+ ![Image](https://github.com/user-attachments/assets/5978f0b9-95f0-4d88-804b-e791652aecb8)
 <div align="center">
   <a href="www.linkedin.com/in/jonathantorreblanca" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
