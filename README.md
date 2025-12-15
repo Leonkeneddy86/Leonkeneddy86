@@ -75,7 +75,26 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leonkeneddy86/Leonkeneddy86/e7ddffa4006a2d659b994f20403029fd6e95e016/github-contribution-grid-snake.svg"  />
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/leonkeneddy86/leonkeneddy86/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/leonkeneddy86/leonkeneddy86/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/leonkeneddy86/leonkeneddy86/output/pacman-contribution-graph.svg">
+  </picture>
+
+  <br/>
+
+  <sub>
+    Generated with
+    <a href="https://abozanona.github.io/pacman-contribution-graph/">
+      abozanona/pacman-contribution-graph
+    </a>
+  </sub>
+</div>
+
 </div>
 
 ###
